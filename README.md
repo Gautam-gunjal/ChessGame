@@ -7,17 +7,17 @@ Supports a 2-player match with an additional spectator role. The server entry po
 
 ## 📑 Table of Contents
 
-- [About](#-about)
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [⚙️ Installation & Setup](#-installation--setup)
-- [▶️ How to Play (Roles & Flow)](#️-how-to-play-roles--flow)
-- [🔌 Socket & Game Notes](#-socket--game-notes)
-- [📸 Screenshots (Optional)](#-screenshots-optional)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👤 Author](#-author)
+- [About](#about)
+- [🚀 Features](#features)
+- [🛠️ Tech Stack](#tech-stack)
+- [📂 Project Structure](#project-structure)
+- [⚙️ Installation & Setup](#installation--setup)
+- [▶️ How to Play (Roles & Flow)](#how-to-play-roles--flow)
+- [🔌 Socket & Game Notes](#socket--game-notes)
+- [📸 Screenshots (Optional)](#screenshots-optional)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [👤 Author](#author)
 
 ---
 
@@ -40,7 +40,7 @@ This project is a web-based Chess game that synchronizes gameplay in real-time b
 
 ---
 
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 - **Runtime:** Node.js  
 - **Server:** Express.js  
@@ -61,11 +61,9 @@ ChessGame/
 │── package.json   # Dependencies and scripts
 ```
 
-
-
 ---
 
-## ⚙️ Installation & Setup
+<h2 id="installation--setup">⚙️ Installation & Setup</h2>
 
 1. **Clone the repository**
    ```bash
@@ -151,7 +149,3 @@ This project is provided under the **MIT License**.
 
 **Gautam Gunjal**  
 🔗 [GitHub Profile](https://github.com/Gautam-gunjal)
-
----
-
-
