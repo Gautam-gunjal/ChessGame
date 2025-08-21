@@ -7,17 +7,17 @@ Supports a 2-player match with an additional spectator role. The server entry po
 
 ## 📑 Table of Contents
 
-- [About](#about)
-- [🚀 Features](#features)
-- [🛠️ Tech Stack](#tech-stack)
-- [📂 Project Structure](#project-structure)
-- [⚙️ Installation & Setup](#installation--setup)
-- [▶️ How to Play (Roles & Flow)](#how-to-play-roles--flow)
-- [🔌 Socket & Game Notes](#socket--game-notes)
-- [📸 Screenshots (Optional)](#screenshots-optional)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-- [👤 Author](#author)
+- [About](#-about)
+- [🚀 Features](#-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [📂 Project Structure](#-project-structure)
+- [⚙️ Installation & Setup](#-installation--setup)
+- [▶️ How to Play (Roles & Flow)](#️-how-to-play-roles--flow)
+- [🔌 Socket & Game Notes](#-socket--game-notes)
+- [📸 Screenshots (Optional)](#-screenshots-optional)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [👤 Author](#-author)
 
 ---
 
