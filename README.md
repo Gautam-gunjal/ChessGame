@@ -14,7 +14,6 @@ Supports a 2-player match with an additional spectator role. The server entry po
 - [⚙️ Installation & Setup](#installation--setup)
 - [▶️ How to Play (Roles & Flow)](#️-how-to-play-roles--flow)
 - [🔌 Socket & Game Notes](#-socket--game-notes)
-- [📸 Screenshots (Optional)](#-screenshots-optional)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [👤 Author](#-author)
@@ -122,11 +121,6 @@ If your server listens on a different port (for example using an environment var
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add screenshots or GIFs of the game UI here (board, lobby, move list, etc.).
-
----
 
 ## 🤝 Contributing
 
