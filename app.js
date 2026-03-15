@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const socket = require("socket.io");
 const http = require("http");
@@ -8,7 +9,7 @@ const app = express();
 app.set("view engine", "ejs");//can use ejs file which is similar to html
 app.use(express.static(path.join(__dirname, "public")));//can use static files which is stored in public file
 
-
+const PORT = process.env.PORT || 3000
 const server = http.createServer(app);//Intializing http server with express
 const io = socket(server);
 
@@ -72,6 +73,6 @@ io.on("connection", function (uniquesocket) {
 
 })
 
-server.listen(3000,()=>{
-    console.log("server running on port 3000");
+server.listen(PORT,()=>{
+    console.log(`Server Running on ${PORT}`);
 })
